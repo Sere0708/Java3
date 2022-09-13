@@ -1,3 +1,5 @@
+// Задача 3. Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее из этого списка.
+
 import java.util.*;
 public class GFG {
 public static void main(String args[]) throws Exception
